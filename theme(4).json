@@ -1,0 +1,112 @@
+{
+  "name": "themertesting",
+  "description": "Made with themer.jenku.xyz",
+  "authors": [
+    {
+      "name": "jenku",
+      "id": "323205750262595595"
+    }
+  ],
+  "semanticColors": {
+    "TEXT_NORMAL": [
+      "rgba(234, 227, 233, 1)"
+    ],
+    "TEXT_PRIMARY": [
+      "rgba(199, 200, 205, 1)"
+    ],
+    "TEXT_MUTED": [
+      "rgba(146, 116, 137, 1)"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "rgba(255, 198, 223, 1)"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "rgba(131, 73, 102, 1)"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#61364b"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#4d2b3c"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#834966"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#e13196"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#9f597c"
+    ],
+    "TEXT_SECONDARY": [
+      "#caa4b8"
+    ],
+    "CHANNEL_ICON": [
+      "rgba(204, 117, 156, 1)"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#a45b80"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#ba859f"
+    ],
+    "PANEL_BG": [
+      "#834966"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "rgba(83, 57, 71, 1)"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "rgba(232, 227, 231, 1)"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "rgba(78, 44, 61, 1)"
+    ],
+    "EMBED_BACKGROUND": [
+      "#9b607e"
+    ],
+    "FA-IDK": [
+      "#4f70f4"
+    ],
+    "FA-FONT-SOLID": [
+      "normal 900 1em/1 \"Font Awesome 6 Free\""
+    ],
+    "FA-STYLE-FAMILY-CLASSIC": [
+      "\"Font Awesome 6 Free\""
+    ],
+    "FA-FONT-REGULAR": [
+      "normal 400 1em/1 \"Font Awesome 6 Free\""
+    ],
+    "FA-FONT-BRANDS": [
+      "normal 400 1em/1 \"Font Awesome 6 Brands\""
+    ],
+    "FA-STYLE-FAMILY-BRANDS": [
+      "\"Font Awesome 6 Brands\""
+    ],
+    "FA-FONT-SHARP-DUOTONE-SOLID": [
+      "normal 900 1em/1 \"Font Awesome 6 Sharp Duotone\""
+    ],
+    "FA-FONT-SHARP-THIN": [
+      "normal 100 1em/1 \"Font Awesome 6 Sharp\""
+    ],
+    "FA-FONT-SHARP-LIGHT": [
+      "normal 300 1em/1 \"Font Awesome 6 Sharp\""
+    ],
+    "FA-FONT-SHARP-REGULAR": [
+      "normal 400 1em/1 \"Font Awesome 6 Sharp\""
+    ],
+    "FA-FONT-SHARP-SOLID": [
+      "normal 900 1em/1 \"Font Awesome 6 Sharp\""
+    ],
+    "FA-FONT-DUOTONE": [
+      "normal 900 1em/1 \"Font Awesome 6 Duotone\""
+    ],
+    "FA-FONT-THIN": [
+      "normal 100 1em/1 \"Font Awesome 6 Pro\""
+    ],
+    "FA-FONT-LIGHT": [
+      "normal 300 1em/1 \"Font Awesome 6 Pro\""
+    ]
+  },
+  "spec": 2
+}
