@@ -64,49 +64,10 @@
     ],
     "EMBED_BACKGROUND": [
       "#9b607e"
-    ],
-    "FA-IDK": [
-      "#4f70f4"
-    ],
-    "FA-FONT-SOLID": [
-      "normal 900 1em/1 \"Font Awesome 6 Free\""
-    ],
-    "FA-STYLE-FAMILY-CLASSIC": [
-      "\"Font Awesome 6 Free\""
-    ],
-    "FA-FONT-REGULAR": [
-      "normal 400 1em/1 \"Font Awesome 6 Free\""
-    ],
-    "FA-FONT-BRANDS": [
-      "normal 400 1em/1 \"Font Awesome 6 Brands\""
-    ],
-    "FA-STYLE-FAMILY-BRANDS": [
-      "\"Font Awesome 6 Brands\""
-    ],
-    "FA-FONT-SHARP-DUOTONE-SOLID": [
-      "normal 900 1em/1 \"Font Awesome 6 Sharp Duotone\""
-    ],
-    "FA-FONT-SHARP-THIN": [
-      "normal 100 1em/1 \"Font Awesome 6 Sharp\""
-    ],
-    "FA-FONT-SHARP-LIGHT": [
-      "normal 300 1em/1 \"Font Awesome 6 Sharp\""
-    ],
-    "FA-FONT-SHARP-REGULAR": [
-      "normal 400 1em/1 \"Font Awesome 6 Sharp\""
-    ],
-    "FA-FONT-SHARP-SOLID": [
-      "normal 900 1em/1 \"Font Awesome 6 Sharp\""
-    ],
-    "FA-FONT-DUOTONE": [
-      "normal 900 1em/1 \"Font Awesome 6 Duotone\""
-    ],
-    "FA-FONT-THIN": [
-      "normal 100 1em/1 \"Font Awesome 6 Pro\""
-    ],
-    "FA-FONT-LIGHT": [
-      "normal 300 1em/1 \"Font Awesome 6 Pro\""
     ]
+  },
+  "rawColors"{
+    "PLUM_22": [#828273]
   },
   "spec": 2
 }
