@@ -32,6 +32,9 @@
     "BACKGROUND_SECONDARY_ALT": [
       "#161333"
     ],
+    "BACKGROUND_TERTIARY": [
+      "#0c0c26"
+    ],
     "BG_BASE_PRIMARY": [
       "#2a3158"
     ],
