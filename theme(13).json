@@ -1,0 +1,82 @@
+{
+  "name": "Bloo",
+  "description": "Made with themer.jenku.xyz",
+  "authors": [
+    {
+      "name": "jenku",
+      "id": "323205750262595595"
+    }
+  ],
+  "semanticColors": {
+    "TEXT_NORMAL": [
+      "#e4e5e9"
+    ],
+    "TEXT_PRIMARY": [
+      "#c7c8cd"
+    ],
+    "TEXT_MUTED": [
+      "#6d728c"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#e3fdff"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#4365b5"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#161333"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#31315e"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#161333"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#2a3158"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#00ffea"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#232352"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#232352"
+    ],
+    "TEXT_SECONDARY": [
+      "#4155c6"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#121225"
+    ],
+    "CHANNEL_ICON": [
+      "#7f8fc4"
+    ],
+    "BG-BRAND": [
+      "#5865f2"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#191a40"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#1f1f49"
+    ],
+    "PANEL_BG": [
+      "#2a3158"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#9597a3"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#e4e5e7"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0e0e21"
+    ],
+    "EMBED_BACKGROUND": [
+      "#272742"
+    ]
+  },
+  "spec": 2
+}
