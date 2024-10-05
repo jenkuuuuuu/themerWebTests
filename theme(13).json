@@ -27,7 +27,7 @@
       "#161333"
     ],
     "BACKGROUND_SECONDARY": [
-      "#161333"
+      "#27224e"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#161333"
@@ -47,8 +47,11 @@
     "TEXT_SECONDARY": [
       "#4155c6"
     ],
+    "CARD_PRIMARY_BG": [
+      "#303061"
+    ],
     "CARD_SECONDARY_BG": [
-      "#121225"
+      "#0c0c26"
     ],
     "CHANNEL_ICON": [
       "#7f8fc4"
