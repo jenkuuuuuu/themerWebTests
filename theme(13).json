@@ -24,19 +24,19 @@
       "#4365b5"
     ],
     "BACKGROUND_PRIMARY": [
-      "#161333"
+      "#253758"
     ],
     "BACKGROUND_SECONDARY": [
-      "#27224e"
+      "#110d29"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#161333"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0c0c26"
+      "#1c153a"
     ],
     "BG_BASE_PRIMARY": [
-      "#2a3158"
+      "#2c2b59"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#00ffea"
@@ -51,7 +51,7 @@
       "#4155c6"
     ],
     "CARD_PRIMARY_BG": [
-      "#0c0c26"
+      "#303061"
     ],
     "CARD_SECONDARY_BG": [
       "#0c0c26"
@@ -60,7 +60,7 @@
       "#7f8fc4"
     ],
     "BG-BRAND": [
-      "#FFFFFF"
+      "#4856eb"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#191a40"
@@ -69,7 +69,7 @@
       "#1f1f49"
     ],
     "PANEL_BG": [
-      "#2a3158"
+      "#2c2b59"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#9597a3"
@@ -78,10 +78,10 @@
       "#e4e5e7"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0e0e21"
+      "#1f1f46"
     ],
     "EMBED_BACKGROUND": [
-      "#272742"
+      "#202047"
     ]
   },
   "spec": 2
