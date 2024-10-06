@@ -8,6 +8,9 @@
     }
   ],
   "semanticColors": {
+    "EXPRESSION_PICKER_BG": [
+      "#2c2b59"
+    ],
     "TEXT_NORMAL": [
       "#dbe6f2"
     ],
@@ -29,9 +32,6 @@
     "BACKGROUND_SECONDARY": [
       "#110d29"
     ],
-    "EXPRESSION_PICKER_BG": [
-      "#161333"
-    ],
     "BACKGROUND_SECONDARY_ALT": [
       "#161333"
     ],
@@ -42,7 +42,7 @@
       "#2c2b59"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#00ffea"
+      "#1919dc"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#232352"
@@ -88,7 +88,7 @@
     ]
   },
   "rawColors": {
-    "PLUM_20": "#ffffff"
+    "PLUM_20": "#2c2b59"
   },
   "spec": 2
 }
