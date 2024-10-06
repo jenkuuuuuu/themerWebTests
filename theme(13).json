@@ -1,33 +1,36 @@
 {
-  "name": "Bloo",
+  "name": "Custom Theme",
   "description": "Made with themer.jenku.xyz",
   "authors": [
     {
-      "name": "jenku",
-      "id": "323205750262595595"
+      "name": "None inputted",
+      "id": "None inputted"
     }
   ],
   "semanticColors": {
     "TEXT_NORMAL": [
-      "#e4e5e9"
+      "#dbe6f2"
     ],
     "TEXT_PRIMARY": [
       "#c7c8cd"
     ],
     "TEXT_MUTED": [
-      "#6d728c"
+      "#8a91b0"
     ],
     "INTERACTIVE_ACTIVE": [
       "#e3fdff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#4365b5"
+      "#647292"
     ],
     "BACKGROUND_PRIMARY": [
-      "#253758"
+      "#252759"
     ],
     "BACKGROUND_SECONDARY": [
       "#110d29"
+    ],
+    "EXPRESSION_PICKER_BG": [
+      "#161333"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#161333"
@@ -63,7 +66,7 @@
       "#4856eb"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#191a40"
+      "#2a2c61"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#1f1f49"
@@ -83,10 +86,6 @@
     "EMBED_BACKGROUND": [
       "#202047"
     ]
-  },
-  "rawColors":{
-    "BRAND_360": "#ffffff",
-    "BRAND_500": "#ffffff"
   },
   "spec": 2
 }
