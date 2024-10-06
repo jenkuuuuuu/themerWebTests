@@ -87,5 +87,8 @@
       "#202047"
     ]
   },
+  "rawColors":{
+    "PRIMARY_600": "#ffffff"
+  },
   "spec": 2
 }
